@@ -4,7 +4,7 @@
   <title><![CDATA[Dublin Jerome Computer Science Club]]></title>
   <link href="http://djhscs.github.io/atom.xml" rel="self"/>
   <link href="http://djhscs.github.io/"/>
-  <updated>2014-10-24T23:48:45-04:00</updated>
+  <updated>2014-10-25T14:20:33-04:00</updated>
   <id>http://djhscs.github.io/</id>
   <author>
     <name><![CDATA[djhscs]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test Numero Dos]]></title>
+    <link href="http://djhscs.github.io/blog/2014/10/25/test-numero-dos/"/>
+    <updated>2014-10-25T00:07:52-04:00</updated>
+    <id>http://djhscs.github.io/blog/2014/10/25/test-numero-dos</id>
+    <content type="html"><![CDATA[<h3>This is test number 2</h3>
+
+<p>I hope this one shows up, otherwise I have no idea what is going on.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
