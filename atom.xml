@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Dublin Jerome Computer Science Club]]></title>
+  <link href="http://djhscs.github.io/atom.xml" rel="self"/>
+  <link href="http://djhscs.github.io/"/>
+  <updated>2014-10-24T23:31:48-04:00</updated>
+  <id>http://djhscs.github.io/</id>
+  <author>
+    <name><![CDATA[djhscs]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://djhscs.github.io/blog/2014/10/24/hello-world/"/>
+    <updated>2014-10-24T23:26:14-04:00</updated>
+    <id>http://djhscs.github.io/blog/2014/10/24/hello-world</id>
+    <content type="html"><![CDATA[<h2>Hello World!</h2>
+
+<p>This is a test. I hope you see it. If you do, I would like to wish you a jolly &ldquo;Hello World!&rdquo; We&rsquo;re sailing!</p>
+]]></content>
+  </entry>
+  
+</feed>
