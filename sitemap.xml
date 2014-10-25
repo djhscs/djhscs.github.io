@@ -6,20 +6,26 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://djhscs.github.io/posts/</loc>
-    <lastmod>2014-10-24T23:31:48-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>http://djhscs.github.io/</loc>
-    <lastmod>2014-10-24T23:31:48-04:00</lastmod>
+    <lastmod>2014-10-24T23:48:45-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>http://djhscs.github.io/posts/</loc>
+    <lastmod>2014-10-24T23:48:45-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://djhscs.github.io/blog/archives/</loc>
-    <lastmod>2014-10-24T23:31:48-04:00</lastmod>
+    <lastmod>2014-10-24T23:48:45-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://djhscs.github.io/about/</loc>
+    <lastmod>2014-10-24T23:48:45-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

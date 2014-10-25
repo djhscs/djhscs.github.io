@@ -4,11 +4,11 @@
   <title><![CDATA[Dublin Jerome Computer Science Club]]></title>
   <link href="http://djhscs.github.io/atom.xml" rel="self"/>
   <link href="http://djhscs.github.io/"/>
-  <updated>2014-10-24T23:31:48-04:00</updated>
+  <updated>2014-10-24T23:48:45-04:00</updated>
   <id>http://djhscs.github.io/</id>
   <author>
     <name><![CDATA[djhscs]]></name>
-    
+    <email><![CDATA[djhscs@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
