@@ -4,7 +4,7 @@
   <title><![CDATA[Dublin Jerome Computer Science Club]]></title>
   <link href="http://djhscs.github.io/atom.xml" rel="self"/>
   <link href="http://djhscs.github.io/"/>
-  <updated>2014-10-25T14:20:33-04:00</updated>
+  <updated>2014-10-25T17:15:38-04:00</updated>
   <id>http://djhscs.github.io/</id>
   <author>
     <name><![CDATA[djhscs]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test Numero Tres]]></title>
+    <link href="http://djhscs.github.io/blog/2014/10/25/test-numero-tres/"/>
+    <updated>2014-10-25T16:15:17-04:00</updated>
+    <id>http://djhscs.github.io/blog/2014/10/25/test-numero-tres</id>
+    <content type="html"><![CDATA[<p>Hello this is the third test of stuff. Hope it works this time. In the mean time here is a funny youtube video.
+Also, here&rsquo;s a facebook icon <i class="fa facebook-square"></i></p>
+
+<!-- more -->
+
+
+<iframe src="//www.youtube.com/embed/0LR-LlMZlrU?wmode=opaque" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Test Numero Dos]]></title>
@@ -31,7 +47,8 @@
     <id>http://djhscs.github.io/blog/2014/10/24/hello-world</id>
     <content type="html"><![CDATA[<h2>Hello World!</h2>
 
-<p>This is a test. I hope you see it. If you do, I would like to wish you a jolly &ldquo;Hello World!&rdquo; We&rsquo;re sailing!</p>
+<p>This is a test. I hope you see it. If you do, I would like to wish you a jolly &ldquo;Hello World!&rdquo; We&rsquo;re sailing!
+<i class="fa facebook-square"></i> facebook-square</p>
 ]]></content>
   </entry>
   
